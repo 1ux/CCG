@@ -1,8 +1,15 @@
-![Computer Cabinett Göttingen e.V. Logo](./CCG_Logo.jpg)
+<p align="left">
+  <a href="https://www.c-c-g.de/">
+    <img src="./CCG_Logo.jpg" alt="Computer Cabinett Göttingen e.V. Logo" width="80%">
+  </a>
+</p>
 
 # Computer Cabinett Göttingen e.V. – Didaktische Konzepte der Technischen Informatik
 
 In diesem Repository sammle ich alle Materialien, Skripte und Dokumentationen, die ich im Rahmen meiner Tätigkeit für das Computer Cabinett Göttingen e.V. erstellt habe. Ziel ist es, verständliche, didaktische Ansätze zu entwickeln, um komplexe Themen der Technischen Informatik zugänglich zu machen.
+
+
+## Inhalt:
 
 
 ## Lizenz
